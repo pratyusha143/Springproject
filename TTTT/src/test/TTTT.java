@@ -7,8 +7,6 @@ public class TTTT {
 System.out.println("hii git hii hello hgoebgnwobnlkij;njl acdickjnkjLnSVNJi");
 System.out.println("hii git hii hello hgoebgnwobnlkij;njl acdickjnkjLnSVNJi");
 System.out.println("hii git hii hello hgoebgnwobnlkij;njl acdickjnkjLnSVNJi");
-System.out.println("hii git hii hello hgoebgnwobnlkij;njl acdickjnkjLnSVNJi");
-System.out.println("hii git hii hello hgoebgnwobnlkij;njl acdickjnkjLnSVNJi");
 	}
 
 }
